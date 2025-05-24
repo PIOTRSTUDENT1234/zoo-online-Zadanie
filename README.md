@@ -21,10 +21,13 @@ Strona jest dostepna na każdym urządzeniu które ma dostęp do internetu.
 - html
 - git i github,
 - css
-- github pages do hostowania
+- github pages do hostowania [**Zobacz link**](#)
 
 ## Jak uruchomić
 wystarczy kliknąć w link
 
 ## Zespół
 - Piotr M
+
+## jak możesz pomuc?
+chcesz pomóc? super! Zobacz zasady w [CONTRIBUTING.md](#CONTRIBUTING.md)
