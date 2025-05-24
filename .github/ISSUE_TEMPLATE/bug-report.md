@@ -2,7 +2,7 @@
 name: Zgłoszenie błędu
 about: Zgłoś błędy znalezione na stronie
 title: "[BUG] krótki opis"
-label: bug
+labels: bug
 assignees: ''
 ---
 **Opis błędu**
