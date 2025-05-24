@@ -21,7 +21,7 @@ Strona jest dostepna na każdym urządzeniu które ma dostęp do internetu.
 - html
 - git i github,
 - css
-- github pages do hostowania [**Zobacz link**](#)
+- github pages do hostowania [**Zobacz link**](#https://piotrstudent1234.github.io/zoo-online-Zadanie/)
 
 ## Jak uruchomić
 wystarczy kliknąć w link
