@@ -1,10 +1,10 @@
 # Nazwa projektu
 Projekt Zoo online stworzony na potrzeby przedmiotu zarządzanie projektem wdrożeniowym na Wsb w gdyni
 
-##Zobacz podgląd projektu.
+## Zobacz podgląd projektu.
 ![podgląd-projektu](img/goryl.jpg)
 
-##spis treści
+## Spis treści
 - [Instalacja](#instalacja)
 - [Użycie](#użycie)
 - [Technologia](#technologia)
