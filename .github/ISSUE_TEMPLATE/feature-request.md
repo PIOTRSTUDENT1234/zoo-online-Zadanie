@@ -2,7 +2,7 @@
 name: Propozycja nowej funkcjonalności
 about: Zaproponuj nową funkcjonalność
 title: "[FEATURE] krótki opis"
-label: enhancment
+labels: enhancment
 assignees: ''
 ---
 **Opis funkcji**
